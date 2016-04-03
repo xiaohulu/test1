@@ -264,6 +264,7 @@ CSS和HTML：主要是CSS3的特性和HTML5的特性，以及浏览器处理的�
 * 自动化测试：在业务较为稳定的情况下，可以通过自动化测试来减少测试的事件，但需求较多的时候，维护测试用例的成本会很高，可能用自动化测试会起到反效果
     - jasmine
     - mocha
+    - [intern](https://theintern.github.io/intern/#what-is-intern)
 * 生态系统
     - npm
     - bower
